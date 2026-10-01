@@ -1,16 +1,13 @@
-## Hi there 👋
+# Engin Yiğit
 
-<!--
-**engin-yigit/engin-yigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical engineer based in Germany, focused on power systems, grid studies, and reproducible engineering analysis with Python and pandapower.
 
-Here are some ideas to get you started:
+## Featured Engineering Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [EV Impact Analysis in a Low-Voltage Distribution Grid](https://github.com/engin-yigit/P1_EV_Impact_Analysis) — Scenario-based assessment of transformer loading, line loading, voltage profiles, and EV penetration limits.
+- [PV Hosting Capacity Analysis in a Medium-Voltage Distribution Grid](https://github.com/engin-yigit/P2_PV_Hosting_Capacity) — Scenario-based assessment of PV integration, technical limits, and simplified active-power mitigation.
+
+## Links
+
+- [CV & Engineering Portfolio](https://engin-yigit.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/engin-yigit)
